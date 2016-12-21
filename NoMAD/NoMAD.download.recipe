@@ -6,7 +6,7 @@
     <string>Downloads NoMAD</string>
     
     <key>Identifier</key>
-    <string>com.github.tbridge.download.nomad</string>
+    <string>com.github.tbridge.download.NoMAD</string>
     
     <key>Input</key>
     <dict>
