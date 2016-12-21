@@ -36,8 +36,7 @@
             <key>Arguments</key>
             <dict>
                 <key>input_path</key>
-                <string>%RECIPE_CACHE_DIR%/%NAME%/downloads/NoMAD.pkg
-</string>
+                <string>%pathname%</string>
                 <key>expected_authority_names</key>
                 <array>
                 	<string>Developer ID Installer: Joel Rennich (AAPZK3CB24)</string>
