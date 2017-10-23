@@ -40,7 +40,7 @@
                 <string>%pathname%/Kerio Control VPN Client Installer.pkg</string>
                 <key>expected_authority_names</key>
         			<array>
-            			<string>Developer ID Installer: Kerio Technologies</string>
+            			<string>Developer ID Installer: Kerio Technologies (7WC9K73933)</string>
             			<string>Developer ID Certification Authority</string>
             			<string>Apple Root CA</string>
         			</array>
