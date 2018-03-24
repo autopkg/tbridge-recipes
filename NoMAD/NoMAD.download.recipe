@@ -23,7 +23,7 @@
             <key>Arguments</key>
             <dict>
                 <key>url</key>
-                <string>https://files.nomad.menu/download/NoMAD.pkg</string>
+                <string>https://files.nomad.menu/NoMAD.pkg</string>
             </dict>
         </dict>
         <dict>
