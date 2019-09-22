@@ -4,10 +4,10 @@
 <dict>
     <key>Description</key>
     <string>Imports NoMAD into Munki</string>
-    
+
     <key>Identifier</key>
     <string>com.github.tbridge.munki.nomad</string>
-    
+
     <key>Input</key>
     <dict>
         <key>NAME</key>

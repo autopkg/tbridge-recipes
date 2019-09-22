@@ -4,10 +4,10 @@
 <dict>
     <key>Description</key>
     <string>Downloads NoMAD</string>
-    
+
     <key>Identifier</key>
     <string>com.github.tbridge.download.NoMAD</string>
-    
+
     <key>Input</key>
     <dict>
         <key>NAME</key>
