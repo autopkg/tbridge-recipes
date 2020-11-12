@@ -39,7 +39,7 @@
                 <string>%pathname%</string>
                 <key>expected_authority_names</key>
                 <array>
-                	<string>Developer ID Installer: Joel Rennich (AAPZK3CB24)</string>
+                	<string>Developer ID Installer: Orchard &amp; Grove Inc. (VRPY9KHGX6)</string>
                 	<string>Developer ID Certification Authority</string>
             		<string>Apple Root CA</string>
             	</array>
