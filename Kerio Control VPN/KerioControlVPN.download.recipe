@@ -40,7 +40,7 @@
                 <string>%pathname%/Kerio Control VPN Client Installer.pkg</string>
                 <key>expected_authority_names</key>
         			<array>
-            			<string>GFI Software Development Ltd (ESPPW8V28N)</string>
+            			<string>Developer ID Installer: GFI Software Development Ltd (ESPPW8V28N)</string>
             			<string>Developer ID Certification Authority</string>
             			<string>Apple Root CA</string>
         			</array>
