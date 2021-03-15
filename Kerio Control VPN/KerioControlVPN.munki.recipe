@@ -4,10 +4,10 @@
 <dict>
     <key>Description</key>
     <string>Downloads Kerio Control VPN Client</string>
-    
+
     <key>Identifier</key>
     <string>com.github.tbridge.munki.kerio-control-vpn</string>
-    
+
     <key>Input</key>
     <dict>
         <key>NAME</key>
