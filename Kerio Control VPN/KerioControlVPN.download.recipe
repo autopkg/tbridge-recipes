@@ -24,7 +24,7 @@
             <key>Arguments</key>
             <dict>
                 <key>url</key>
-                             <string>http://download.kerio.com/dwn/kerio-control-vpnclient-mac.dmg</string>
+                             <string>https://download.kerio.com/dwn/kerio-control-vpnclient-mac.dmg</string>
             </dict>
         </dict>
         <dict>
